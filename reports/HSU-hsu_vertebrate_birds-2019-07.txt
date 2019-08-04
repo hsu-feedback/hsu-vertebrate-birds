@@ -1,0 +1,50 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 113
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:1937bcf8-1006-4dfd-baf8-a16de64b321e" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "gbifdatasetid:1937bcf8-1006-4dfd-baf8-a16de64b321e procellariiformes" ; Times: 1
+	Query: "genus:Antrostomus specificepithet:carolinensis" ; Times: 1
+	Query: "genus:Accipiter specificepithet:cooperi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 985 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Branta bernicla" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
