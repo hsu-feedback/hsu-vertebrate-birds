@@ -1,0 +1,49 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-03 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Ardea alba mass OR weight" ; Times: 2
+	Query: "Sialia mexicana mass OR weight" ; Times: 2
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 1
+	Query: "Buteo lineatus mass OR weight" ; Times: 2
+	Query: "Sialia currucoides mass OR weight" ; Times: 2
+	Query: "Falco sparverius mass OR weight" ; Times: 1
+	Query: "Zenaida macroura mass OR weight" ; Times: 1
+	Query: "Aquila chrysaetos mass OR weight" ; Times: 2
+	Query: "Branta bernicla mass OR weight" ; Times: 2
+	Query: "Branta canadensis mass OR weight" ; Times: 1
+	Query: "Anas platyrhynchos mass OR weight" ; Times: 2
+	Query: "Pandion haliaetus mass OR weight" ; Times: 2
+	Query: "Tyto alba mass OR weight" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 474 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+
+
+End of report.
