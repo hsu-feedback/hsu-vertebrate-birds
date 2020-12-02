@@ -1,0 +1,50 @@
+Report for Institution Code HSU, Resource hsu_vertebrate_birds
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 102
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;NY&#34;" ; Times: 1
+	Query: "specificepithet:limicola genus:Rallus stateprovince:&#34;CA&#34;" ; Times: 1
+	Query: "gbifdatasetid:1937bcf8-1006-4dfd-baf8-a16de64b321e" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 842 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-10 ; Times: 6
+	Date: 2020-11-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "vntype:specimen specificepithet:Gnoma genus:Glaucidium" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gnoma genus:Glaucidium" ; Times: 1
+
+
+End of report.
